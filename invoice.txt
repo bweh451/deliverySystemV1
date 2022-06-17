@@ -1,0 +1,23 @@
+Order number: 001
+Customer: Brandon Sherriff
+Email: brandonsherriff@gmail.com
+Phone number: 081 383 4113
+Location: Cape Town
+
+You have ordered the following from Jannie se pizza in Cape Town: 
+
+2 x Pepperoni Pizza (R90.00)
+1 x Hawaiin Pizza (R120.00)
+1 x Chees Pizza (R80.00)
+
+
+Special instructions: Please put extra cheese on all pizzas
+
+Total: R380.00
+
+Julie Carty is nearest to the restaurant and so he will be delivering your order at: 
+
+12 Romney Street
+Bellville
+
+If you need to contact the restaurant, their number is: 021 098 0987.
